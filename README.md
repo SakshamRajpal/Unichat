@@ -5,27 +5,27 @@
     <strong>Unichat</strong> is a powerful, real-time messaging application designed to be a modern alternative to Facebook Messenger. It leverages the capabilities of <strong>Firebase</strong>, <strong>Stream Chat</strong>, and <strong>React.js</strong> to deliver a fast, responsive, and developer-friendly chat experience.
   </p>
 
-    ## <a name="features">⚙️Features</a>
+    <h1>⚙️Features</a>
 
-    **🔐 Firebase Authentication**
+    <h2>🔐 Firebase Authentication</h2>
     </ul>
       Secure sign-in and sign-up flows using third-party providers like Google and Facebook.
       User session management and protected route handling with <code>authState</code>.
     </ul>
    
-    **🧩 Stream Chat API**
+    <h2>🧩 Stream Chat API</h2>
     <ul>
       <li>Real-time messaging through Stream services.</li>
       <li>Handling user connections, channels, and messages via Stream Chat SDK.</li>
     </ul>
 
-    **💻 React.js for Frontend**
+    <h2>💻 React.js for Frontend</h2>
     <ul>
       <li>Responsive design optimized for all screen sizes.</li>
       <li>React Router for seamless navigation between chat rooms.</li>
     </ul>
 
-    **📡 Real-Time Data Management**
+    <h2>📡 Real-Time Data Management</h2>
     <ul>
       <li>Real-time updates using Firebase Realtime Database or Firestore.</li>
       <li>Syncing chat data, message status, and read receipts.</li>
