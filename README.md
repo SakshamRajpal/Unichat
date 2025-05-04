@@ -4,31 +4,49 @@
 ![Screenshot 2024-10-17 184855](https://github.com/user-attachments/assets/68a91f3a-ff87-4a6f-bbdd-564246ee7b39)
 ![Screenshot 2024-10-17 113609](https://github.com/user-attachments/assets/35f87749-7dc6-4ce9-82f2-58bd73d471d0)
 
-Excited to share my latest Project "Unichat", a better Facebook Messenger alternative, using the power of Firebase, stream Chat services, and React.js. 📱💬
+<h1>📱 Unichat - A Better Facebook Messenger Alternative</h1>
+<p>Unichat is a powerful messaging application built using <strong>Firebase</strong>, <strong>Stream Chat</strong> services, and <strong>React.js</strong>.</p>
 
-⚡ Features:-
-🔐Firebase Authentication: 
--Implementing secure user sign-in and sign-up flows using third-party providers like Google and Facebook.
--Managing user sessions and authentication state(authState) to handle protected routes.
-📱Stream Chat API:
--Utilizing the Stream services for real-time messaging.
--Handling Stream Chat SDK to connect users, manage channels, and retrieve messages.
-📲React.js for Frontend Development:
--Fully responsive layout for optimal use on all devices using React.js.
--Handling React Router for navigation between chat rooms
-📊Real-Time Data Management:
--Using Firebase's real-time database or Firestore for managing live user data.
--Synchronizing real-time updates like message status and read receipts using both Firebase and Stream
+<h2>⚡ Features</h2>
+<ul>
+  <li><strong>🔐 Firebase Authentication:</strong>
+    <ul>
+      <li>Implementing secure user sign-in and sign-up flows using third-party providers like Google and Facebook.</li>
+      <li>Managing user sessions and authentication state (<code>authState</code>) to handle protected routes.</li>
+    </ul>
+  </li>
+  <li><strong>🧩 Stream Chat API:</strong>
+    <ul>
+      <li>Utilizing Stream services for real-time messaging.</li>
+      <li>Handling Stream Chat SDK to connect users, manage channels, and retrieve messages.</li>
+    </ul>
+  </li>
+  <li><strong>💻 React.js for Frontend Development:</strong>
+    <ul>
+      <li>Fully responsive layout for optimal use on all devices.</li>
+      <li>Handling React Router for navigation between chat rooms.</li>
+    </ul>
+  </li>
+  <li><strong>📊 Real-Time Data Management:</strong>
+    <ul>
+      <li>Using Firebase's real-time database or Firestore for managing live user data.</li>
+      <li>Synchronizing real-time updates like message status and read receipts using both Firebase and Stream.</li>
+    </ul>
+  </li>
+</ul>
 
-Although, this was a smaller project compared to previous one still I want to share some important things that i have learned while making this project:-
-✔️Along with Firebase & stream Chat, i have also use "Facebookfordevelopers" so that Firebase can also provide authentication through Facebook login.
-✔️If you are using "Google" for login, then Firebase is the easiest and the best way for providing authentication as it is developed by Google Only.
-✔️Instead of "Stream Chat", you can also use "LiveChat" or "SendBird".
-✔️Along with common react Hooks like "useState","useSelect" i have also uses "useContext","useNavigate" for managing navigation flow and handling user interaction.
-✔️This was my second time using "Firebase", but i also found "Stream Chat" services a developer friendly software for providing Chat services.
+<h2>📝 What I Learned</h2>
+<p>Although this was a smaller project compared to previous ones, I learned several key things:</p>
+<ul>
+  <li>✅ Along with Firebase & Stream Chat, I used "Facebook for Developers" so that Firebase can also handle Facebook login.</li>
+  <li>✅ If you're using Google for login, Firebase makes authentication very easy—developed and maintained by Google.</li>
+  <li>✅ Alternatives to Stream Chat include "LiveChat" and "SendBird".</li>
+  <li>✅ Besides using common React Hooks like <code>useState</code> and <code>useSelect</code>, I also used <code>useContext</code>, <code>useNavigate</code> for managing navigation flow and user interaction.</li>
+  <li>✅ This was my second experience using Firebase, and I found Stream Chat to be very developer-friendly.</li>
+</ul>
 
-You can view the project code at my github link:-🔗https://lnkd.in/gwXazVMj
-
-Generally, I use github for deployment but this time i have use "Netlify" deployment services:-
-🔗https://lnkd.in/gQqJW96R
-(Please clear unnecessary cookies if any)
+<h2>🔗 Project Links</h2>
+<ul>
+  <li>📁 GitHub Code Repository: <a href="https://lnkd.in/gwXazVMj" target="_blank">https://lnkd.in/gwXazVMj</a></li>
+  <li>🚀 Live Deployment (via Netlify): <a href="https://lnkd.in/gQqJW96R" target="_blank">https://lnkd.in/gQqJW96R</a> (Clear cookies if necessary)</li>
+</ul>
