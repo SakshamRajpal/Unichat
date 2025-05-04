@@ -47,7 +47,3 @@
     <li>📁 <strong>GitHub Repository:</strong> <a href="https://github.com/SakshamRajpal/Unichat" target="_blank">View Code</a></li>
     <li>🚀 <strong>Live Demo (Hosted on Netlify):</strong> <a href="https://unichatbysaksham.netlify.app/" target="_blank">Launch App</a> <small>(Please clear cookies if needed)</small></li>
   </ul>
-
-</body>
-</html>
-
