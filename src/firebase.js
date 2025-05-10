@@ -3,7 +3,7 @@ import "firebase/compat/auth";
 // import "firebase/compat/firestore";
 
 export const auth = firebase.initializeApp({
-    apiKey: "AIzaSyDgDkMhpzxrlPsJJ-Vhy8p8uqXAwnMz6tA",
+    apiKey: "",
     authDomain: "unichat-e93a9.firebaseapp.com",
     projectId: "unichat-e93a9",
     storageBucket: "unichat-e93a9.appspot.com",
