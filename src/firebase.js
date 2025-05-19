@@ -3,10 +3,10 @@ import "firebase/compat/auth";
 // import "firebase/compat/firestore";
 
 export const auth = firebase.initializeApp({
-    apiKey: "",
-    authDomain: "unichat-e93a9.firebaseapp.com",
-    projectId: "unichat-e93a9",
-    storageBucket: "unichat-e93a9.appspot.com",
-    messagingSenderId: "627788378128",
-    appId: "1:627788378128:web:a301ef26fcecad05479a95"
+    apiKey: "process.env.apikey",
+    authDomain: "process.env.authDomain",
+    projectId: "process.env.projectId",
+    storageBucket: "process.env.storageBucket",
+    messagingSenderId: "process.env.messagingSenderId",
+    appId: "process.env.appId"
   }).auth();
