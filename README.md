@@ -70,10 +70,12 @@ npm install
 ### 🔐 Set Up Environment Variables
 - Create a .env.local file in the root directory:
 ```bash
-# APPWRITE
+# STREAM_CHAT
 REACT_APP_STREAM_CHAT_ID=
 REACT_APP_STREAM_CHAT_KEY=
 REACT_APP_STREAM_CHAT_SECRET=
+
+#FIREBASE
 firebase_apiKey=
 firebase_authDomain=
 firebase_projectId=
